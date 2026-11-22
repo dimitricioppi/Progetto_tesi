@@ -44,7 +44,7 @@ class ColorSelection extends StatelessWidget {
                   textStyle: const TextStyle(fontSize: 20),
                   backgroundColor: const Color.fromARGB(229, 255, 247, 103),
                 ),
-                child: const Text("Defenders"),
+                child: const Text("Attackers"),
               ),
             ),
             // Pulsante "Nero"
@@ -75,7 +75,7 @@ class ColorSelection extends StatelessWidget {
                   textStyle: const TextStyle(fontSize: 20),
                   backgroundColor: const Color.fromARGB(229, 255, 247, 103),
                 ),
-                child: const Text("Attachers"),
+                child: const Text("Defenders"),
               ),
             ),
           ],
